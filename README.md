@@ -4,6 +4,6 @@ Large Language Models (LLMs) have revolutionized the field of natural language p
 # Table of Contents
 - Embeddings
   - [Understanding Embeddings](https://github.com/RyanCodrai/llm-cookbook/blob/main/Understanding%20embeddings.ipynb)
-- Semantic search
-- Knowledge retrieval
-- Question and answering
+  - Semantic search
+  - Knowledge retrieval
+  - Question and answering
