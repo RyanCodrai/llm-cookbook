@@ -5,5 +5,8 @@ Large Language Models (LLMs) have revolutionized the field of natural language p
 - Embeddings
   - [Understanding Embeddings](https://github.com/RyanCodrai/llm-cookbook/blob/main/embedding_notebooks/Understanding%20embeddings.ipynb)
   - [Semantic Search](https://github.com/RyanCodrai/llm-cookbook/blob/main/embedding_notebooks/Semantic%20search.ipynb)
-  - Knowledge retrieval
+  - Near duplicate detection
   - Question and answering
+  - Embedding Bias and Fairness
+  - History of embeddings
+  - Multimodal embeddings
